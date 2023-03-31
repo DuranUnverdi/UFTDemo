@@ -1,0 +1,10 @@
+﻿RunAction "Action1", oneIteration
+RunAction "UrlAcma_AnasayfaKontrol", oneIteration
+RunAction "CerezKabul_LoginOlVeKontrol", oneIteration
+RunAction "BilgisayarSecme_KontrolEtme", oneIteration
+RunAction "MSIYaz_KontrolEt", oneIteration
+RunAction "IkinciSayfaSec_KontrolEt", oneIteration
+RunAction "IkinciUrunFavoriEkle_KontrolEt", oneIteration
+RunAction "FavoriListeGit_KontrolEt", oneIteration
+RunAction "ListeSil_KontrolEt", oneIteration
+RunAction "CikisYap_KontrolEt", oneIteration
